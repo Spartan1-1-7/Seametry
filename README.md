@@ -1,11 +1,9 @@
-# Creating the README.md file based on the structure outlined
 
-readme_content = """
-# Bootcamp ML Project
+# Seametry
 
 ## Project Overview
 
-This project is part of a machine learning bootcamp where we explore various machine learning techniques and algorithms using Python. The project is implemented in a Jupyter notebook and covers multiple stages of the machine learning pipeline, from data preprocessing to model evaluation.
+Seametry is a project that delves into the application of various machine learning techniques and algorithms using Python. Implemented in a Jupyter notebook, this project covers multiple stages of the machine learning pipeline, including data preprocessing, model development, and evaluation. Seametry aims to provide a thorough understanding of machine learning concepts through practical implementation and detailed analysis.
 
 ## Contents
 
